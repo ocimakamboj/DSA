@@ -1,17 +1,7 @@
-# Assignment-2 
+# Assignment-3
 
-This assignment involves the implementation of  
-1. Stack 
-2. Queue 
+The full question is given in the file [prog-3.pdf].
 
-using 
-1. Dynamic Arrays  
-2. Linked Lists 
+[prog-3.pdf]: https://github.com/ocimakamboj/DSA/blob/master/prog-3/prog-3.pdf
 
-as the underlying data structures.
-
-The full question is given in the file [prog-2.pdf].
-
-[prog-2.pdf]: https://github.com/ocimakamboj/DSA/blob/master/prog-2/prog-2.pdf
-
-For getting started, the Test.java file can be run.
+For getting started, run the Simulate.java.
