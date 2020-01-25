@@ -14,4 +14,4 @@ The full question is given in the file [prog-2.pdf].
 
 [prog-2.pdf]: https://github.com/ocimakamboj/DSA/blob/master/prog-2/prog-2.pdf
 
-For getting started, the Test.java file can be 
+For getting started, the Test.java file can be run.
