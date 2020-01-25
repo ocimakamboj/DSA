@@ -1,7 +1,7 @@
-# Assignment-3
+# Assignment-4
 
-The full question is given in the file [prog-3.pdf].
+The full question is given in the file [prog-4.pdf].
 
-[prog-3.pdf]: https://github.com/ocimakamboj/DSA/blob/master/prog-3/prog-3.pdf
+[prog-4.pdf]: https://github.com/ocimakamboj/DSA/blob/master/prog-4/prog-4.pdf
 
 For getting started, run the Simulate.java file.
